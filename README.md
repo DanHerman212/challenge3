@@ -8,14 +8,18 @@ This script follows best practice to effectively collect, prepare and analyze da
 
 This project leverages python 3.7.13 with the following tools:
 
-* [Jupyter Lab](https://jupyter.org/) - Preferred IDE where script was written
+Pandas
+
+Pathlib
+
+%matplotlib
+
 
 ---
 
 ## Installation Guide
 
-The script is writtin in ipynb file.  The raw data is saved in CSV under the resources folder
-
+No installation required
 
 ---
 
